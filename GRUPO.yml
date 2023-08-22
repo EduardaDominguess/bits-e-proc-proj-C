@@ -1,10 +1,9 @@
 Nome-Grupo: "Camarão"
 
 - user: 1
-  name: Gabriel Mendes
-  git-username: gabrielfmendesm
-  blackboard-username: gabrielfmm
-
+name: Gabriel Mendes
+git-username: gabrielfmendesm
+blackboard-username: gabrielfmm
 
 - user: 2
 name: Eduarda Domingues
@@ -16,7 +15,12 @@ name: Ricardo Lins
 git-username: Ricardoolm
 blackboard-username: ricardool1
 
-  - user: 4
-  name: Gustavo Lagôa
-  git-username: lagoa7
-  blackboard-username: gustavog6
+- user: 4
+name: Gustavo Lagôa
+git-username: lagoa7
+blackboard-username: gustavog6
+
+- user: 5
+name: Caio Saldanha
+git-username: csald_
+blackboard-username: caiors1
